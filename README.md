@@ -1,5 +1,5 @@
 # photo-gallery-test-app
-This is a little janky app to be used for basic automation testing interviews.
+This is a janky little app to be used for basic automation testing interviews.
 
 
 ## Instructions:
