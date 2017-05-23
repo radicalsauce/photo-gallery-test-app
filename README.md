@@ -14,7 +14,6 @@ https://radicalsauce.github.io/photo-gallery-test-app/#
 Flickr Search is a small, single page application that allows users to create galleries of photos retrieved from via the Flickr API. The application consists of two input fields, that correspond to a search term (e.g. "cats", "pictures of food", etc) and how many photos the user hopes to return ("photo number" input field).
 
 **Basic spec:**
-Flickr Search ***should*** have the following features:
 - If the search button is clicked without anything in the input fields, it defaults to returning 15 "kittens".
 - If the search button is clicked when only the search query input field has a value, it will return 15 results per
 the search query
