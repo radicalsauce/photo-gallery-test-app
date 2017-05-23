@@ -5,7 +5,7 @@ This is a little janky app to be used for basic automation testing interviews.
 ## Instructions:
 
 **Your task:**
-Create a series of automation tests to cover the Flickr Search per some or all of the guidelines below. You are encouraged to use whatever technology you're comfortable with to do so, and feel free to add, dispute or elaborate on various test cases should you feel it necessary. You can either work for the remotely deployed version (found here: https://radicalsauce.github.io/photo-gallery-test-app/#) or pull it down and work with it locally. It requires no server or dependency set up.
+Create a series of automation tests to cover the Flickr Search per some or all of the guidelines below. You are encouraged to use whatever technology you're comfortable with to do so, and feel free to add, dispute or elaborate on various test cases should you feel it necessary. You can either work with the remotely deployed version (found here: https://radicalsauce.github.io/photo-gallery-test-app/#) or pull it down and work with it locally. It requires no server or dependency set up.
 
 **The app:**
 https://radicalsauce.github.io/photo-gallery-test-app/#
